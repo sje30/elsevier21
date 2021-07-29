@@ -1,5 +1,3 @@
-
-
 ## UK Research and Innovation (UKRI) open access policy review
 
 **Email sent (July 2021) to Editorial board members in the UK**
