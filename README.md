@@ -52,3 +52,6 @@ different publishers.  [Lawson]
 
 
 
+Lawson, Stuart. (2020). Journal subscription expenditure in the UK
+2010-2019 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3657776
+
