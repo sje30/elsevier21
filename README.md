@@ -59,3 +59,5 @@ Lawson, Stuart. (2020). Journal subscription expenditure in the UK
 subscriptions, of which 400 million pounds went to Elsevier, the
 single-largest publisher.)
 
+(Figures post 2019 went down slightly as electronic subcriptions were
+made VAT exempt.)
