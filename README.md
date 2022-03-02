@@ -61,3 +61,9 @@ single-largest publisher.)
 
 (Figures post 2019 went down slightly as electronic subcriptions were
 made VAT exempt.)
+
+
+### Elsevier changes to embargo periods
+
+https://figshare.com/articles/dataset/Elsevier_embargo_periods_2013_2015/1554748
+
